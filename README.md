@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </h1>
 </div>
 <div align="center">
-  <img src="/Users/piyushgarg/work/Piyush_Bio.gif" width="950" height="475"/>
+  <img src="https://github.com/piyush888/piyush888/blob/main/Piyush_Bio.gif" width="950" height="475"/>
 </div>
 
 ---
@@ -99,6 +99,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
