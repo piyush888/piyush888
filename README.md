@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=piyush888&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi, welcome to my Github!
+    Hi, this is Piyush Garg. Welcome to my Github!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently located in Tempe, Arizona.
 - :telescope: I’ve worked as a Software Engineer contributing to frontend and backend for building web applications for my own start-up Drone AI and a couple other personal projects. I completed my Masters in Computer Science from Arizona State University in December 2023.
 
 - :seedling: Currently looking for a job in the US. Also, exploring the possibility of using LLMs for building a chat based recommendation system for Animes.
